@@ -115,14 +115,5 @@ sywhite04@gmail.com
 - ROS
 - Linux / Ubuntu
 
-### 핵심 기술 키워드
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Robot Software
-- Sensor Fusion
-- Data Analysis
-- Human-Robot Interaction
-
 ## 링크
 - [GitHub](https://github.com/100seoyoung)
